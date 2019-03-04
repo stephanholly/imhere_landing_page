@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Roboto|Titillium+Web:900');
+
+html, body {
+  background-color: black;
+}
+p{ margin: 0px; }
+
+
+.lol{
+  background: url('./iri.png');
+   background-attachment: fixed;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom: 0;
+  font-size: 8em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 1000;
+}
+
+
+.imhere {
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+  text-align: center;
+  margin: 0;
+  background: url('./iri.png');
+   background-attachment: fixed;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+
+}
+
+.fab {
+  background: url('./iri.png');
+   background-attachment: fixed;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.social {
+    text-align: center;
+    margin: 0;
+}
