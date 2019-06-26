@@ -16,7 +16,7 @@
           <a href="https://www.instagram.com/im_here_app/"><i class="fab fa-instagram font"></i></a>
           <a href="https://www.snapchat.com/add/imhereapp"><i class="fab fa-snapchat-square font"></i></a>
           <a href="https://twitter.com/imhere19092951"><i class="fab fa-twitter-square font"></i></a>
-          <a href="help.html"><i class="fab fa-twitter-square font"></i></a>
+          <a href="help.php"><i class="fab fa-twitter-square font"></i></a>
 
         </div>
       </div>
