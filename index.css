@@ -37,9 +37,21 @@ p{ margin: 0px; }
    background-attachment: fixed;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+
 }
 
 .social {
     text-align: center;
     margin: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .social {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .font {
+    font-size: 12em;
+  }
 }
